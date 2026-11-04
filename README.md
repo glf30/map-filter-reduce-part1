@@ -63,3 +63,22 @@ totalAdultAges([12, 25, 17, 30, 16, 21]) => 76
 ```
 
 ---
+
+## 7. doubledEvenNumbers
+
+Write a function called `doubledEvenNumbers` that takes an array of numbers and returns a new array containing only the even numbers, with each one doubled.
+
+```js
+doubledEvenNumbers([1, 2, 3, 4, 5, 6]) => [4, 8, 12]
+```
+
+---
+
+## 8. totalCharacters
+
+Write a function called `totalCharacters` that takes an array of strings and returns the total number of characters across all strings.
+
+```js
+totalCharacters(["cat", "hello", "JS"]) => 10
+```
+
